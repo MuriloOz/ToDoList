@@ -22,7 +22,9 @@ Criei uma aplicação de To-Do List para gerenciar tarefas de forma simples e ef
 
 -- Como funciona:
 
-Ao iniciar o projeto, a estrutura básica foi configurada com Vite, e em seguida, o React foi adicionado para lidar com o estado da aplicação e renderizar a lista de tarefas. Utilizei o useState para armazenar a lista de tarefas e o useEffect para interagir com o armazenamento local (localStorage), garantindo que as tarefas persistam mesmo após o fechamento da página. Motivação para usar Vite e React:
+Ao iniciar o projeto, a estrutura básica foi configurada com Vite, e em seguida, o React foi adicionado para lidar com o estado da aplicação e renderizar a lista de tarefas. Utilizei o useState para armazenar a lista de tarefas e o useEffect para interagir com o armazenamento local (localStorage), garantindo que as tarefas persistam mesmo após o fechamento da página.
+
+-- Motivação para usar Vite e React --
 
 Vite foi escolhido devido à sua velocidade e facilidade de configuração. Ele oferece uma experiência de desenvolvimento mais ágil comparado a outras ferramentas, com recarregamento instantâneo (hot reloading).
 
