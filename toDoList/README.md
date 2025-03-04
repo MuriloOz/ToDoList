@@ -23,6 +23,5 @@ Motivação para usar Vite e React:
 Vite foi escolhido devido à sua velocidade e facilidade de configuração. Ele oferece uma experiência de desenvolvimento mais ágil comparado a outras ferramentas, com recarregamento instantâneo (hot reloading).
 
 React foi escolhido por ser uma biblioteca popular, eficiente e amplamente usada, com forte suporte para criação de componentes reutilizáveis e gerenciamento de estado.
-=======
 
->>>>>>> aeba4ede73588c8b3d43a2db73f8915b694ff42a
+
