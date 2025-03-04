@@ -1,12 +1,16 @@
-"To-Do List usando Vite e React"
-Objetivo:
+-- To-Do List usando Vite e React --
+
+-- Objetivo --
+
 Criei uma aplicação de To-Do List para gerenciar tarefas de forma simples e eficiente, utilizando React para a parte de interface e Vite como ferramenta de build para otimizar o desenvolvimento.
 
-Tecnologias usadas:
+-- Tecnologias usadas --
 
-React: Utilizado para a criação de componentes e gerenciamento da interface. Com o React, implementei funcionalidades como adicionar, listar e excluir tarefas dinamicamente.
-Vite: Utilizado para configurar o ambiente de desenvolvimento. O Vite permite que a aplicação seja carregada de forma rápida e com um tempo de espera mínimo durante o desenvolvimento, melhorando a experiência do usuário.
-JavaScript/JSX: Para a lógica de interatividade e manipulação dos dados no front-end.
+-- React: Utilizado para a criação de componentes e gerenciamento da interface. Com o React, implementei funcionalidades como adicionar, listar e excluir tarefas dinamicamente.
+
+-- Vite: Utilizado para configurar o ambiente de desenvolvimento. O Vite permite que a aplicação seja carregada de forma rápida e com um tempo de espera mínimo durante o desenvolvimento, melhorando a experiência do usuário.
+
+-- JavaScript/JSX: Para a lógica de interatividade e manipulação dos dados no front-end.
 Funcionalidades:
 
 -- Adicionar novas tarefas à lista.
