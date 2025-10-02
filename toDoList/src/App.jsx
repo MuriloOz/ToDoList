@@ -7,9 +7,9 @@ import './App.css';
 
 function App() {
   const [todos, setTodos] = useState([
-    { id: 1, text: "Exemplo De Tarefa", category: "Trabalho", isCompleted: false },
-    { id: 2, text: "Exemplo De Tarefa", category: "Pessoal", isCompleted: false },
-    { id: 3, text: "Exemplo De Tarefa", category: "Estudos", isCompleted: false }
+    { id: 1, text: "Refatorar código desenvolvido projeto x", category: "Trabalho", isCompleted: false },
+    { id: 2, text: "Ler livro sobre React", category: "Pessoal", isCompleted: false },
+    { id: 3, text: "Estudar hooks do React", category: "Estudos", isCompleted: false }
   ]);
 
   const [search, setSearch] = useState("");
