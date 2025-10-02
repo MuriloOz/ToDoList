@@ -4,15 +4,12 @@ body {
   padding: 30px;
   height: 100vh;
   color: #333;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .app {
   max-width: 600px;
-  margin: 0 auto; 
-  margin-bottom: 50px; 
+  margin: 0 auto;
+  margin-bottom: 50px;
   background-color: #efefef;
   padding: 20px 30px;
   border-radius: 10px;
