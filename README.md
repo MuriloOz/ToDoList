@@ -60,8 +60,6 @@ Este projeto foi criado para praticar:
 
 ---
 
-## 👨‍💻 Autor
-
 Desenvolvido com foco em aprendizado e evolução no front-end.
 
 Se este projeto te ajudou, deixe uma ⭐ no repositório!
