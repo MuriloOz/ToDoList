@@ -54,9 +54,8 @@ Este projeto foi criado para praticar:
 
 ## 🔮 Melhorias Futuras
 
-* ✏️ Edição de tarefas
-* 🎨 Tema claro/escuro
-* 🏷️ Categorias e filtros
+* Tema claro/escuro
+* Sistema De Pontuação
 
 ---
 
