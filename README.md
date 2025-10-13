@@ -1,43 +1,71 @@
-📝 TO-DO LIST COM REACT E VITE
+# 📝 ToDoList – Gerenciador de Tarefas
 
+Este é um projeto **To-Do List** desenvolvido com **React + Vite**, criado para organizar tarefas do dia a dia de forma simples, rápida e intuitiva. O objetivo principal é praticar conceitos de componentes, estado e armazenamento local.
 
-🎯 OBJETIVO
-Criei uma aplicação de To-Do List para gerenciar tarefas de forma simples e eficiente, utilizando React para a interface e Vite como ferramenta de build para otimizar o desenvolvimento.
+---
 
+## 🚀 Tecnologias Utilizadas
 
+* **React (JSX)**
+* **Vite** (ambiente de desenvolvimento)
+* **CSS** para estilização
+---
 
-🛠️ TECNOLOGIAS UTILIZADAS
+## 📂 Estrutura do Projeto
 
-⚛️ React – criação de componentes e gerenciamento da interface (adicionar, listar e excluir tarefas dinamicamente).
+```
+toDoList/
+ ├── img/
+ │   └── favicon.ico
+ ├── src/
+ │   ├── components/
+ │   ├── App.css
+ │   ├── App.jsx
+ │   └── main.jsx
+ ├── .eslintrc.cjs
+ ├── .gitignore
+ ├── index.html
+ ├── package.json
+ ├── vite.config.js
+ └── README.md
+```
 
-⚡ Vite – ambiente de desenvolvimento rápido com hot reload e build otimizado.
+---
 
-📜 JavaScript / JSX – lógica de interatividade e manipulação de dados no front-end.
+## 🎯 Funcionalidades
 
-
-
-✨ FUNCIONALIDADES
-
-➕ Adicionar novas tarefas
+✅ Adicionar novas tarefas
 
 ✅ Marcar tarefas como concluídas
 
-❌ Excluir tarefas
-
-📱 Interface limpa e responsiva
+✅ Excluir tarefas da lista
 
 
+## 💡 Objetivo do Projeto
 
-⚙️ COMO FUNCIONA
+Este projeto foi criado para praticar:
 
-A aplicação foi criada com Vite e estruturada com React para gerenciar estado e renderizar a lista de tarefas.
+* Manipulação de estado no React
+* Componentização
+* Persistência de dados no navegador
+* Estrutura e organização de projetos com Vite
 
-useState armazena a lista de tarefas.
+---
 
-useEffect interage com o localStorage, garantindo que as tarefas persistam mesmo após fechar a página.
+## 🔮 Melhorias Futuras
 
+* ✏️ Edição de tarefas
+* 🎨 Tema claro/escuro
+* 🏷️ Categorias e filtros
 
-💡 MOTIVAÇÃO
-🚀 Vite – velocidade e simplicidade na configuração, além do hot reloading instantâneo!
+---
 
-⚛️ React – popular, eficiente e ideal para componentes reutilizáveis e gerenciamento de estado!
+## 👨‍💻 Autor
+
+Desenvolvido com foco em aprendizado e evolução no front-end.
+
+Se este projeto te ajudou, deixe uma ⭐ no repositório!
+
+---
+
+**Organize seu dia. Aumente sua produtividade.** 🧠⚡
